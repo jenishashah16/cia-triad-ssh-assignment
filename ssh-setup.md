@@ -16,7 +16,7 @@ OverTheWire Bandit
 
 * **Level 1**
 
-	- Use command ls to view the content of home directory
+		- Use command ls to view the content of home directory
 
 &nbsp;	- A file readme contains the following password and it can be accessed using "cat readme"
 
@@ -37,7 +37,7 @@ OverTheWire Bandit
 
 
 * **Level 2**
-* 
+  
 **&nbsp;**	- Accessing a - filename is different as 'cat -' cannot be used because '-' is used to take input from the keyboard
 
 &nbsp;	- Instead use 'cat ./-' to read password from file '-'
@@ -47,7 +47,7 @@ OverTheWire Bandit
 
 
 * **Level 3**
-* 
+  
 **&nbsp;**	- Accessing a file '--spaces in this filename--' , starts with a hyphen and has spaces in between.
 
 &nbsp;	- Use quotes while writing commands for such files like "--spaces in this filename--" OR escape spaces, --spaces\\ in\\ this\\ filename--
@@ -60,7 +60,7 @@ OverTheWire Bandit
 
 * **Level 4**
 
-	- Accessing a hidden file from the 'inhere' directory
+		- Accessing a hidden file from the 'inhere' directory
 
 &nbsp;	- Use command 'cd inhere' to change directory
 
@@ -74,7 +74,7 @@ OverTheWire Bandit
 
 * **Level 5**
 
-	- Accessing a human readble file from the 'inhere' directory
+		- Accessing a human readble file from the 'inhere' directory
 
 &nbsp;	- Use command 'cd inhere' to change directory
 
