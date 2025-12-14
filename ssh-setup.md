@@ -16,11 +16,9 @@ OverTheWire Bandit
 
 * **Level 1**
 
-<<<<<<< HEAD
-Use command ls to view the content of home directory
-=======
-		- Use command ls to view the content of home directory
->>>>>>> cb4052084f51407be236558f0703a5d0a574966e
+- Use command ls to view the content of home directory
+		
+
 
 - A file readme contains the following password and it can be accessed using "cat readme"
 
@@ -41,11 +39,8 @@ Use command ls to view the content of home directory
 
 
 * **Level 2**
-<<<<<<< HEAD
-=======
   
-**&nbsp;**	- Accessing a - filename is different as 'cat -' cannot be used because '-' is used to take input from the keyboard
->>>>>>> cb4052084f51407be236558f0703a5d0a574966e
+- Accessing a - filename is different as 'cat -' cannot be used because '-' is used to take input from the keyboard
 
 - Accessing a - filename is different as 'cat -' cannot be used because '-' is used to take input from the keyboard
 
@@ -56,11 +51,9 @@ Use command ls to view the content of home directory
 
 
 * **Level 3**
-<<<<<<< HEAD
-=======
-  
-**&nbsp;**	- Accessing a file '--spaces in this filename--' , starts with a hyphen and has spaces in between.
->>>>>>> cb4052084f51407be236558f0703a5d0a574966e
+
+- Accessing a file '--spaces in this filename--' , starts with a hyphen and has spaces in between.
+
 
 - Accessing a file '--spaces in this filename--' , starts with a hyphen and has spaces in between.
 
@@ -74,11 +67,7 @@ Use command ls to view the content of home directory
 
 * **Level 4**
 
-<<<<<<< HEAD
 - Accessing a hidden file from the 'inhere' directory
-=======
-		- Accessing a hidden file from the 'inhere' directory
->>>>>>> cb4052084f51407be236558f0703a5d0a574966e
 
 - Use command 'cd inhere' to change directory
 
@@ -92,11 +81,7 @@ Use command ls to view the content of home directory
 
 * **Level 5**
 
-<<<<<<< HEAD
 - Accessing a human readble file from the 'inhere' directory
-=======
-		- Accessing a human readble file from the 'inhere' directory
->>>>>>> cb4052084f51407be236558f0703a5d0a574966e
 
 - Use command 'cd inhere' to change directory
 
